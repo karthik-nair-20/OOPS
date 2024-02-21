@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7af5894-a67c-4f67-bca5-a1dc27b4f5f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Introduction/wrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/Static2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static/innerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/access/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects/ObjDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Abstract/Daughter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Abstract/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Abstract/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Brake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Cdplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/NIcecar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop5/Interface/powerEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop6/generics/comparing/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop6/generics/comparing/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop6/generics/customArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop6/generics/customeArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/inheritance/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/inheritance/Boxprice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/inheritance/cHILD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/polymorphism/Circles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/polymorphism/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/polymorphism/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties/polymorphism/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2bR6Mc6WX7sENhqunc5ihrGlFPa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/karthiknair/Desktop/Kunal_java/Lectures/Object Oriented Programming/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Static2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.Static2" />
+      <module name="Object Oriented Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="customArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop6.generics.customArraylist" />
+      <module name="Object Oriented Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop6.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="customeArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop6.generics.customeArrayList" />
+      <module name="Object Oriented Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop6.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="innerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static.innerClass" />
+      <module name="Object Oriented Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop6.generics.comparing.main" />
+      <module name="Object Oriented Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop6.generics.comparing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.customArraylist" />
+        <item itemvalue="Application.customeArrayList" />
+        <item itemvalue="Application.Static2" />
+        <item itemvalue="Application.innerClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7af5894-a67c-4f67-bca5-a1dc27b4f5f8" name="Changes" comment="" />
+      <created>1706165498729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706165498729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Static/innerClass.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/properties/inheritance/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/properties/polymorphism/Triangle.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Static/innerClass.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Static/innerClass.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Singleton/main.java</url>
+          <line>6</line>
+          <properties class="Singleton.main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Static/innerClass.java</url>
+          <line>10</line>
+          <properties class="Static.innerClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Static/innerClass.java</url>
+          <line>6</line>
+          <properties class="Static.innerClass.Test" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
